@@ -15,7 +15,6 @@ Welcome to my Github page.
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/mongooose-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
  </p>
  <br>
@@ -23,8 +22,8 @@ Welcome to my Github page.
 ![JavaScript](https://img.shields.io/badge/JavaScript-500+_Hours-yellow)
 ![React](https://img.shields.io/badge/React-200+_Hours-9cf)
 ![CSS](https://img.shields.io/badge/CSS-50+_Hours-blueviolet)
-![PostgreSQL](https://img.shields.io/badge/SQL-25+_Hours-navy)
-![MySQL](https://img.shields.io/badge/SQL-15+_Hours-informational)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-25+_Hours-navy)
+![MySQL](https://img.shields.io/badge/MySQL-15+_Hours-informational)
 ![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-green)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
 
