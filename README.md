@@ -20,6 +20,22 @@ Welcome to my Github page.
 
 Please feel free to send your questions, comments through LinkedIn or email!
 
+<h2>
+  :hammer_and_wrench: Technologies and Tools <br>
+</h2>
+<p>
+  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+ </p>
+ <br>
+
 
 ![Pete's github stats](https://github-readme-stats.vercel.app/api?username=KilgoreTrout9&count_private=true&show_icons=true&theme=radical)
 ![Pete's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KilgoreTrout9&theme=merko&layout=compact&hide_langs_below=1)
