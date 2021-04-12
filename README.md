@@ -22,3 +22,4 @@ Please feel free to send your questions, comments through LinkedIn or email!
 
 
 ![Pete's github stats](https://github-readme-stats.vercel.app/api?username=KilgoreTrout9&count_private=true&show_icons=true&theme=radical)
+![Pete's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KilgoreTrout9&theme=merko&layout=compact&hide_langs_below=1)
