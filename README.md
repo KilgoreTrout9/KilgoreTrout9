@@ -2,24 +2,6 @@
 
 Welcome to my Github page. 
 
-### Want to get in touch with me?
-<!-- LinkedIn Contact -->
-<a href="https://www.linkedin.com/in/pete-cowles-engineer/" target="_blank">
-  <img src="https://img.shields.io/badge/-Pete%20Cowles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
-  
-<!-- Email -->
-<a href="mailto:plcowles1@yahoo.com">
-  <img src="https://img.shields.io/badge/EMAIL-plcowles1@yahoo.com-d44638?style=for-the-badge"/>
-</a>
-
-<!-- Email -->
-<a href="mailto:kilgore9trout@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-kilgore9trout@gmail.com-d44638?style=for-the-badge"/>
-</a>
-
-Please feel free to send your questions, comments through LinkedIn or email!
-
 <h2>
   :hammer_and_wrench: Technologies and Tools <br>
 </h2>
@@ -36,6 +18,25 @@ Please feel free to send your questions, comments through LinkedIn or email!
  </p>
  <br>
 
-
 ![Pete's github stats](https://github-readme-stats.vercel.app/api?username=KilgoreTrout9&count_private=true&show_icons=true&theme=radical)
 ![Pete's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KilgoreTrout9&theme=merko&layout=compact&hide_langs_below=1)
+
+### Want to get in touch with me?
+
+Please feel free to send your questions, comments through LinkedIn or email!
+
+<!-- LinkedIn Contact -->
+<a href="https://www.linkedin.com/in/pete-cowles-engineer/" target="_blank">
+  <img src="https://img.shields.io/badge/-Pete%20Cowles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+  
+<!-- Email -->
+<a href="mailto:plcowles1@yahoo.com">
+  <img src="https://img.shields.io/badge/EMAIL-plcowles1@yahoo.com-d44638?style=for-the-badge"/>
+</a>
+
+<!-- Email -->
+<a href="mailto:kilgore9trout@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-kilgore9trout@gmail.com-d44638?style=for-the-badge"/>
+</a>
+
