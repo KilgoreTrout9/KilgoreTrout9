@@ -21,4 +21,4 @@ Welcome to my Github page.
 Please feel free to send your questions, comments through LinkedIn or email!
 
 
-[![Pete's github stats](https://github-readme-stats.vercel.app/api?username=KilgoreTrout9&count_private=true)](https://github.com/KilgoreTrout9/github-readme-stats)
+[![Pete's github stats](https://github-readme-stats.vercel.app/api?username=KilgoreTrout9&count_private=true&show_icons=true&theme=radical)
