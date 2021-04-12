@@ -17,6 +17,13 @@ Welcome to my Github page.
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
  </p>
  <br>
+ 
+![React](https://img.shields.io/badge/React-200+_Hours-9cf)
+![JavaScript](https://img.shields.io/badge/JavaScript-500+_Hours-yellow)
+![CSS](https://img.shields.io/badge/CSS-50+_Hours-blueviolet)
+![SQL](https://img.shields.io/badge/SQL-15+_Hours-informational)
+![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-green)
+![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
 
 ![Pete's github stats](https://github-readme-stats.vercel.app/api?username=KilgoreTrout9&count_private=true&show_icons=true&theme=radical)
 ![Pete's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KilgoreTrout9&theme=merko&layout=compact&hide_langs_below=1)
