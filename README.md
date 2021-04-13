@@ -1,4 +1,5 @@
-My name is Pete Cowles, welcome to my Github page. 
+## My name is Pete Cowles 💁🏻‍♂️👇 Check out my Git Hub Profile👇</h2>
+<br/>
 
 <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif">
 
