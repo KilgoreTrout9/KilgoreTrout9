@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif">
-
 My name is Pete Cowles, welcome to my Github page. 
+
+<img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif">
 
 <h2>
   :hammer_and_wrench: Technologies and Tools <br>
