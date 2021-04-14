@@ -3,6 +3,8 @@
 
 <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif">
 
+I'm a full-stack software engineer, creative coder and self-proclaimed designer who specializes in back-end development and system architecture. I make it my mission to translate user-focused designs into applications that run blazing fast.
+
 <h2>
   :hammer_and_wrench: Technologies and Tools <br>
 </h2>
