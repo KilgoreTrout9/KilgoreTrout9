@@ -10,7 +10,7 @@ I'm a full-stack software engineer, creative coder and teacher who specializes i
 Please feel free to send your questions, comments through LinkedIn or email!
 
 <p align="center">
-  
+
 <!-- LinkedIn Contact -->
 <a href="https://www.linkedin.com/in/pete-cowles-engineer/" target="_blank">
   <img src="https://img.shields.io/badge/-Pete%20Cowles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -44,7 +44,7 @@ Please feel free to send your questions, comments through LinkedIn or email!
   <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=white" width="50" height="50"/>
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
@@ -54,7 +54,7 @@ Please feel free to send your questions, comments through LinkedIn or email!
   <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
  </p>
  <br>
- 
+
  <h2>
   Currently Learning: <br>
 </h2>
