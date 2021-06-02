@@ -5,6 +5,26 @@
 
 I'm a full-stack software engineer, creative coder and teacher who specializes in back-end development and system architecture. I make it my mission to translate user-focused designs into applications that run blazing fast.
 
+<p align="center">
+
+<a href="mailto:brentonhershner@gmail.com" target="blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:brentonhershner@gmail.com" />
+</a> &nbsp;
+
+<a href="https://storage.googleapis.com/www.brentonhershner.com/v02_BrentonHershnerResume.pdf" target="blank">
+<img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge" alt="Brenton Hershner Resume" />
+</a>&nbsp;
+
+<a href="https://www.linkedin.com/in/brenton-hershner/" target="blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Brenton Hershner LinkedIn" />
+</a>&nbsp;
+
+<a href="#">
+<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=KilgoreTrout9.KilgoreTrout9&style=for-the-badge">
+</a>&nbsp;
+
+</p>
+
 <h2>
   :hammer_and_wrench: Technologies and Tools <br>
 </h2>
