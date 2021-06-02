@@ -5,11 +5,32 @@
 
 I'm a full-stack software engineer, creative coder and teacher who specializes in back-end development and system architecture. I make it my mission to translate user-focused designs into applications that run blazing fast.
 
-<p align="center">
+### Want to get in touch with me?
 
-<a href="mailto:brentonhershner@gmail.com" target="blank">
+Please feel free to send your questions, comments through LinkedIn or email!
+
+<p align="center">
+<!-- LinkedIn Contact -->
+<a href="https://www.linkedin.com/in/pete-cowles-engineer/" target="_blank">
+  <img src="https://img.shields.io/badge/-Pete%20Cowles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+  
+<!-- Email -->
+<a href="mailto:plcowles1@yahoo.com" target="blank">
+  <img src="https://img.shields.io/badge/EMAIL-plcowles1@yahoo.com-d44638?style=for-the-badge"/>
+</a>
+
+
+
+<!-- Email -->
+<a href="mailto:kilgore9trout@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-kilgore9trout@gmail.com-d44638?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:brentonhershner@gmail.com" />
 </a> &nbsp;
+</a>
+
+
+
 
 <a href="https://storage.googleapis.com/www.brentonhershner.com/v02_BrentonHershnerResume.pdf" target="blank">
 <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge" alt="Brenton Hershner Resume" />
@@ -54,24 +75,5 @@ I'm a full-stack software engineer, creative coder and teacher who specializes i
   <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="50" height="50"/>
  </p>
  <br>
-
-### Want to get in touch with me?
-
-Please feel free to send your questions, comments through LinkedIn or email!
-
-<!-- LinkedIn Contact -->
-<a href="https://www.linkedin.com/in/pete-cowles-engineer/" target="_blank">
-  <img src="https://img.shields.io/badge/-Pete%20Cowles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
-  
-<!-- Email -->
-<a href="mailto:plcowles1@yahoo.com">
-  <img src="https://img.shields.io/badge/EMAIL-plcowles1@yahoo.com-d44638?style=for-the-badge"/>
-</a>
-
-<!-- Email -->
-<a href="mailto:kilgore9trout@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-kilgore9trout@gmail.com-d44638?style=for-the-badge"/>
-</a>
 
 ![Pete's github stats](https://github-readme-stats.vercel.app/api?username=KilgoreTrout9&count_private=true&show_icons=true&theme=radical)
