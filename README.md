@@ -65,6 +65,4 @@ Please feel free to send your questions, comments through LinkedIn or email!
  </p>
  <br>
 
-<p align="center">
-  ![Pete's github stats](https://github-readme-stats.vercel.app/api?username=KilgoreTrout9&count_private=true&show_icons=true&theme=radical)
-</p>
+![Pete's github stats](https://github-readme-stats.vercel.app/api?username=KilgoreTrout9&count_private=true&show_icons=true&theme=radical)
