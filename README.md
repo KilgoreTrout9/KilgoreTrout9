@@ -24,8 +24,8 @@ Please feel free to send your questions, comments through LinkedIn or email!
   <img src="https://img.shields.io/badge/EMAIL-yahoo.com-d44638?style=for-the-badge"/>
 </a>
 
-<a href="https://storage.googleapis.com/www.brentonhershner.com/v02_BrentonHershnerResume.pdf" target="blank">
-<img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge" alt="Brenton Hershner Resume" />
+<a href="https://drive.google.com/file/d/1PPMUd40CzHz8JrViC0aOHZ_Gg55m_18y/view?usp=sharing" target="blank">
+<img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge" alt="Pete Cowles Resume" />
 </a>&nbsp;
 
 <a href="#">
