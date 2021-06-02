@@ -13,24 +13,19 @@ Please feel free to send your questions, comments through LinkedIn or email!
 <!-- LinkedIn Contact -->
 <a href="https://www.linkedin.com/in/pete-cowles-engineer/" target="_blank">
   <img src="https://img.shields.io/badge/-Pete%20Cowles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
+</a> &nbsp;
 
 <!-- Email -->
 <a href="mailto:kilgore9trout@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:kilgore9trout@gmail.com" />
-</a> &nbsp;
+</a>
 
 <a href="mailto:plcowles1@yahoo.com" target="blank">
   <img src="https://img.shields.io/badge/EMAIL-yahoo.com-d44638?style=for-the-badge"/>
 </a>
 
-
 <a href="https://storage.googleapis.com/www.brentonhershner.com/v02_BrentonHershnerResume.pdf" target="blank">
 <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge" alt="Brenton Hershner Resume" />
-</a>&nbsp;
-
-<a href="https://www.linkedin.com/in/brenton-hershner/" target="blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Brenton Hershner LinkedIn" />
 </a>&nbsp;
 
 <a href="#">
