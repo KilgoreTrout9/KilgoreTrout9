@@ -10,6 +10,7 @@ I'm a full-stack software engineer, creative coder and teacher who specializes i
 Please feel free to send your questions, comments through LinkedIn or email!
 
 <p align="center">
+  
 <!-- LinkedIn Contact -->
 <a href="https://www.linkedin.com/in/pete-cowles-engineer/" target="_blank">
   <img src="https://img.shields.io/badge/-Pete%20Cowles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -22,7 +23,7 @@ Please feel free to send your questions, comments through LinkedIn or email!
 
 <a href="mailto:plcowles1@yahoo.com" target="blank">
   <img src="https://img.shields.io/badge/EMAIL-yahoo.com-d44638?style=for-the-badge"/>
-</a>
+</a>&nbsp;
 
 <a href="https://drive.google.com/file/d/1PPMUd40CzHz8JrViC0aOHZ_Gg55m_18y/view?usp=sharing" target="blank">
 <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge" alt="Pete Cowles Resume" />
@@ -64,4 +65,6 @@ Please feel free to send your questions, comments through LinkedIn or email!
  </p>
  <br>
 
-![Pete's github stats](https://github-readme-stats.vercel.app/api?username=KilgoreTrout9&count_private=true&show_icons=true&theme=radical)
+<p align="center">
+  ![Pete's github stats](https://github-readme-stats.vercel.app/api?username=KilgoreTrout9&count_private=true&show_icons=true&theme=radical)
+</p>
