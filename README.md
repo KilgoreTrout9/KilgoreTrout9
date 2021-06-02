@@ -44,13 +44,13 @@ Please feel free to send your questions, comments through LinkedIn or email!
   <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=white" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=51d12e" width="50" height="50"/>
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=51d12e" width="50" height="50"/>
   <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
  </p>
  <br>
