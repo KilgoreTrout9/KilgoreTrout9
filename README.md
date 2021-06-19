@@ -40,9 +40,9 @@ Please feel free to send your questions, comments through LinkedIn or email!
 </h2>
 <p>
   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=51d12e" width="50" height="50"/>
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
