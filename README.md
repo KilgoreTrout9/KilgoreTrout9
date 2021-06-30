@@ -16,7 +16,7 @@ Please feel free to send your questions, comments through LinkedIn or email!
   <img src="https://img.shields.io/badge/-Pete%20Cowles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a> &nbsp;
 
-<!-- Email -->
+<!-- Emails -->
 <a href="mailto:kilgore9trout@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:kilgore9trout@gmail.com" />
 </a>
