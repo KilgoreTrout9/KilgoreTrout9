@@ -25,7 +25,7 @@ Please feel free to send your questions, comments through LinkedIn or email!
   <img src="https://img.shields.io/badge/EMAIL-yahoo.com-d44638?style=for-the-badge"/>
 </a>&nbsp;
 
-<a href="https://drive.google.com/file/d/1PPMUd40CzHz8JrViC0aOHZ_Gg55m_18y/view?usp=sharing" target="blank">
+<a href="https://drive.google.com/file/d/1a-EKI5fXUFpAlfljoQMrTsSMulHskvQY/view?usp=share_link" target="blank">
 <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge" alt="Pete Cowles Resume" />
 </a>&nbsp;
 
